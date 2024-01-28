@@ -2,7 +2,7 @@
 <h3 align="center">A self taught Full Stack/Backend developer from Poland</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and Tailwind
 
 - 📫 How to reach me **kris125132@gmail.com**
 
