@@ -14,9 +14,9 @@
 ### ​ Featured Projects  
 | Project | Description |
 |---------|-------------|
-| **MovieApp** | React + Vite movie search app — favorites, dark mode, animations |
-| **Portfolio** | This static site showcasing my work and tech stack |
-| **CarRental (Django)** | Full-stack car rental site with auth, chat, order management |
+| 🎬 MovieApp | React + Vite movie search app — ⭐ favorites, 🌙 dark mode, ✨ animations |
+| 🌐 Portfolio | Static site showcasing my work and 💻 tech stack |
+| 🚗 CarRental (Django)| Full-stack car rental site with 🔑 auth, 💬 chat, 📦 order management |
 
 ---
 
