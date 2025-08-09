@@ -4,7 +4,7 @@
 💡 Passionate about creating modern, responsive, and interactive user interfaces.  
 🎯 Focused on mastering **React**, **JavaScript (ES6+)**, and **UI/UX best practices**.  
 📚 Currently learning: **React hooks, state management, animations with Framer Motion**.  
-🛠 Tech I'm using: React · Vite · Tailwind CSS · TMDb API · Framer Motion  
+🛠 Tech I'm using: React · Vite · Tailwind CSS · TMDb API · Framer Motion · HTML · CSS · SQL
 
 🎬 [**Live Demo – MovieApp**](https://movie-app-gamma-sand.vercel.app)  
 🌐 [**Portfolio**](https://your-portfolio.vercel.app)
