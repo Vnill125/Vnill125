@@ -6,7 +6,8 @@
 📚 Currently learning: **React hooks, state management, animations with Framer Motion**.  
 🛠 Tech I'm using: React · Vite · Tailwind CSS · TMDb API · Framer Motion  
 
-[Live Demo MovieApp](https://movie-app-gamma-sand.vercel.app) • [Portfolio](https://your-portfolio.vercel.app)
+🎬 [**Live Demo – MovieApp**](https://movie-app-gamma-sand.vercel.app)  
+🌐 [**Portfolio**](https://your-portfolio.vercel.app)
 
 ---
 
