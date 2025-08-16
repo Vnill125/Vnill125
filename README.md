@@ -8,7 +8,7 @@
 ⚛️ React · ⚡ Vite · 🎨 Tailwind CSS · 🎬 TMDb API · ✨ Framer Motion · 📄 HTML · 🎨 CSS · 🗄️ SQL
 
 🎬 [**Live Demo – MovieApp**](https://movie-app-gamma-sand.vercel.app)  
-🌐 [**Portfolio**](https://your-portfolio.vercel.app)
+🌐 [**Portfolio**](https://portfolio-b7dc.vercel.app/)
 
 ---
 
