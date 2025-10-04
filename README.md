@@ -7,9 +7,9 @@
 🛠 Tech I'm using:
 ⚛️ React · ⚡ Vite · 🎨 Tailwind CSS · 🎬 TMDb API · ✨ Framer Motion · 📄 HTML · 🎨 CSS · 🗄️ SQL
 
-🎬 [**Live Demo – MovieApp**](https://movie-app-gamma-sand.vercel.app) 
-📄 [**Live Demo – Task Menager**](https://task-menager-eosin.vercel.app/) 
-🌐 [**Portfolio**](https://portfolio-b7dc.vercel.app/)
+🎬 [**Live Demo – MovieApp**](https://movie-app-gamma-sand.vercel.app)      
+📄 [**Live Demo – Task Menager**](https://task-menager-eosin.vercel.app/)         
+🌐 [**Portfolio**](https://portfolio-b7dc.vercel.app/)          
 
 ---
 
