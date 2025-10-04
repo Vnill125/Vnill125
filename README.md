@@ -3,7 +3,7 @@
       
 💡 Passionate about creating modern, responsive, and interactive user interfaces.      
 🎯 Focused on mastering React, JavaScript (ES6+), Next.js, TypeScript, and UI/UX best practices.        
-📚 Currently learning: React hooks, state management, animations with Framer Motion.         
+📚 Currently learning: Next.js, TypeScript, state management and animations with Framer Motion.         
 🛠 Tech I'm using: ⚛️ React · ⚡ Vite · 📝 Next.js · 💻 TypeScript · 🎨 Tailwind CSS · 🎬 TMDb API · ✨ Framer Motion · 📄 HTML · 🎨 CSS · 🗄️ SQL         
             
 🎬 [**Live Demo – MovieApp**](https://movie-app-gamma-sand.vercel.app)      
